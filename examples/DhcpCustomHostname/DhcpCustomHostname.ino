@@ -15,6 +15,8 @@
   by Tom Igoe
   modified 02 Sept 2015
   by Arturo Guadalupi
+  created 14 December 2025
+  by Dmytro Lahoza
  */
 
 #include <SPI.h>
